@@ -1,6 +1,6 @@
 # TRAILERFLIX
+![LOGO BACKEND GRUPO 5](https://www.highlandernews.org/wp-content/uploads/landscape-1522924460-avengers-infinity-war-poster.jpg)
 
-https://www.highlandernews.org/wp-content/uploads/landscape-1522924460-avengers-infinity-war-poster.jpg
 
 # TRAILERFLIX
 
